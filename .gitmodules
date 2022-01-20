@@ -1,0 +1,15 @@
+[submodule "clean-exercism"]
+	path = clean-exercism
+	url = https://github.com/my-lab-23/clean-exercism.git
+[submodule "novanta"]
+	path = novanta
+	url = https://github.com/my-lab-23/novanta.git
+[submodule "chat-bot"]
+	path = chat-bot
+	url = https://github.com/my-lab-23/chat-bot.git
+[submodule "mummy-auth0"]
+	path = mummy-auth0
+	url = https://github.com/my-lab-23/mummy-auth0.git
+[submodule "kotlin-selenium"]
+	path = kotlin-selenium
+	url = https://github.com/my-lab-23/kotlin-selenium.git
